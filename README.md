@@ -6,6 +6,8 @@ We are running an analysis on weather patterns in Hawaii in order to win over ou
 
 ## Results
 We ran our analysis on the temperatures in June and December to account for some variety in our weather:
+
+
 ![June_temps](https://github.com/MeredithTracy/Surfs_Up_Analysis/blob/main/Resources/June_temps.png)
 ![December_temps](https://github.com/MeredithTracy/Surfs_Up_Analysis/blob/main/Resources/December_temps.png)
 
